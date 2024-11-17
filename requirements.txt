@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+matplotlib       
+numpy
+imutils
+easyocr
+Pillow
+pickle-mixin
